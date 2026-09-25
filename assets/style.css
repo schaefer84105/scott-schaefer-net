@@ -66,6 +66,7 @@ main {
   margin: 0 0 .55rem;
 }
 .hero .subtitle { color: var(--muted); margin: 0; }
+.hero .summary { margin: 1.5rem 0 0; max-width: 560px; }
 .hero img {
   width: 100%;
   aspect-ratio: 1 / 1;
